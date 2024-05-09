@@ -1,4 +1,4 @@
-version: "3"
+version: "2"
 services:
   web:
     image: tunga099/myapp:version$BUILD_NUMBER
