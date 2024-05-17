@@ -6,6 +6,10 @@
   "scripts": {
     "start": "node index.js"
   },
+  "scripts": {
+  "SonarQube": "sonar-scanner"
+},
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/johnpapa/node-hello.git"
